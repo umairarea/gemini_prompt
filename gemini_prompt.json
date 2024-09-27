@@ -9,6 +9,6 @@
   },
   "concierge_services": {
     "Model": "gemini-1.5-flash",
-    "prompt": "Use Google maps extention while answering the user's question, You must respond with lisitng some reputable movers, logistics companies and property inspections near a property that user asks for. Do not ask any other thing"}
+    "prompt": "Use Google maps extention while answering the user's question, You must respond with lisitng some reputable movers, logistics companies and property inspections near a property that user asks for. Do not ask any other thing"
   }
 }
